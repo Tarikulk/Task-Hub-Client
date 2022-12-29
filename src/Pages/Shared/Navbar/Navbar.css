@@ -1,0 +1,8 @@
+#menu-toggle:checked + #menu {
+    display: block;
+}
+
+.dropdown:hover .dropdown-menu,
+.dropdown:active .dropdown-menu {
+    display: block;
+}
